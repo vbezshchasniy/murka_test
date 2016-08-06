@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "murka_test_drawing.CSharp", "murka_test_drawing.CSharp.csproj", "{E1D80285-2495-7D6D-ACDF-B618AB9EF0B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "murka_test_drawing.CSharp.Editor", "murka_test_drawing.CSharp.Editor.csproj", "{9DF5F3B0-779E-C2D3-792B-3A716BFBF234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D80285-2495-7D6D-ACDF-B618AB9EF0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D80285-2495-7D6D-ACDF-B618AB9EF0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D80285-2495-7D6D-ACDF-B618AB9EF0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D80285-2495-7D6D-ACDF-B618AB9EF0B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF5F3B0-779E-C2D3-792B-3A716BFBF234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF5F3B0-779E-C2D3-792B-3A716BFBF234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF5F3B0-779E-C2D3-792B-3A716BFBF234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF5F3B0-779E-C2D3-792B-3A716BFBF234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
