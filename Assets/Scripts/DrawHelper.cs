@@ -49,18 +49,15 @@ public class DrawHelper : MonoBehaviour {
 			SetCurrentScore ();
 			if (!drawing && Input.GetMouseButtonDown (0)) {
 				SetStateDrawing ();
-                Debug.Log("11111");
             }
 
 			if (drawing && Input.GetMouseButtonUp (0)) {
 				SetStateIdle ();
-				CreatePattern ();
-                Debug.Log("222222");
+				//CreatePattern ();
             }
 
 			if (drawing) {
 				DrawProceed ();
-                Debug.Log("3333333");
             }
 		}
 		if (time_left < 0) {
